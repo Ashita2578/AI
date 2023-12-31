@@ -1,0 +1,8 @@
+body{
+   background-image:linear-gradient(aqua,aquamarine,coral,deeppink,gold,greenyellow);
+}
+#start{
+   background-color: rgb(106, 0, 255);
+   color:rgb(229, 255, 0) ;
+   font-weight: bold;
+}
